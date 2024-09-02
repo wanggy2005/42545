@@ -1,0 +1,1 @@
+{"name":"Local: 测试用","url":"c:\\Users\\Administrator\\Desktop\\测试用.cpp","tests":[{"id":1724595342160,"input":"5\n1 3 4 2 1\n7\n11 10 8 9 7 6 5","output":"1 1 2 3 4\n5 6 7 8 9 10 11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Administrator\\Desktop\\测试用.cpp","group":"local","local":true}
